@@ -3,12 +3,12 @@
 ### Projects Description:
 This repository serves as the umbrella portfolio for all my Power BI projects on GitHub. Each subfolder contains independent projects with detailed `.pbix` files, insights, and documentation showcasing various data analysis and visualization techniques.
 
-🔗 [**Click here to view the interactive Power BI report**](https://app.powerbi.com/view?r=eyJrIjoiMTRmNDkyNjUtMGJhMC00NmVjLWIzMTItODg1Mzk3NTllOTBjIiwidCI6Ijc5MmI5MDIwLTk3NmItNDA2Yy05N2ZmLTM0NTE4NzA0MTdjNyJ9)
-
 ### Overview of Featured Projects
 
 ### Superstore Sales Analysis: 
 - This Power BI report analyzes sales performance for a superstore, highlighting trends, regional performance, and category-wise insights.
+
+🔗 [**Click here to view the interactive Power BI report**](https://app.powerbi.com/view?r=eyJrIjoiMTRmNDkyNjUtMGJhMC00NmVjLWIzMTItODg1Mzk3NTllOTBjIiwidCI6Ijc5MmI5MDIwLTk3NmItNDA2Yy05N2ZmLTM0NTE4NzA0MTdjNyJ9)
 
 ## Key Metrics and Insights:
 - Total sales and profit
