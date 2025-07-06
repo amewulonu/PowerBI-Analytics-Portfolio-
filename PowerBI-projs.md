@@ -1,4 +1,4 @@
-## PowerBI-analytocs-Portfolio-
+**# PowerBI-analytics-Portfolio-**
 
 ### Projects Description:
 This repository serves as the umbrella portfolio for all my Power BI projects on GitHub. Each subfolder contains independent projects with detailed `.pbix` files, insights, and documentation showcasing various data analysis and visualization techniques.
